@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "6aa5849a6788da969943a246",
+    "name": "programming",
+    "description": "All things code and software engineering.",
+    "author": "6aa5849a6788da969943a240",
+    "createdAt": "2026-08-10T22:18:36.241Z"
+  },
+  {
+    "_id": "6aa5849a6788da969943a247",
+    "name": "devops",
+    "description": "CI/CD, infrastructure, and automation discussions.",
+    "author": "6aa5849a6788da969943a243",
+    "createdAt": "2026-08-08T13:15:04.556Z"
+  },
+  {
+    "_id": "6aa5849a6788da969943a248",
+    "name": "gaming",
+    "description": "News and discussion about video games.",
+    "author": "6aa5849a6788da969943a244",
+    "createdAt": "2026-07-16T17:51:00.254Z"
+  },
+  {
+    "_id": "6aa5849a6788da969943a249",
+    "name": "movies",
+    "description": "Film reviews, news, and discussion.",
+    "author": "6aa5849a6788da969943a245",
+    "createdAt": "2026-08-05T03:31:13.933Z"
+  },
+  {
+    "_id": "6aa5849a6788da969943a24a",
+    "name": "science",
+    "description": "Scientific discoveries and discussion.",
+    "author": "6aa5849a6788da969943a23c",
+    "createdAt": "2026-08-10T20:57:22.152Z"
+  },
+  {
+    "_id": "6aa5849a6788da969943a24b",
+    "name": "webdev",
+    "description": "Frontend and backend web development topics.",
+    "author": "6aa5849a6788da969943a23f",
+    "createdAt": "2026-07-17T01:11:54.526Z"
+  }
+]

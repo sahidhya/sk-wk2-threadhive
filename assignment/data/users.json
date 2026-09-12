@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "6aa5849a6788da969943a23c",
+    "name": "Diana Prince",
+    "email": "diana@example.com",
+    "password": "$2b$10$placeholderHashedPasswordValueForSeedData",
+    "createdAt": "2026-08-30T03:17:48.778Z"
+  },
+  {
+    "_id": "6aa5849a6788da969943a23d",
+    "name": "Ethan Hunt",
+    "email": "ethan@example.com",
+    "password": "$2b$10$placeholderHashedPasswordValueForSeedData",
+    "createdAt": "2026-08-08T11:18:25.130Z"
+  },
+  {
+    "_id": "6aa5849a6788da969943a23e",
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "password": "$2b$10$placeholderHashedPasswordValueForSeedData",
+    "createdAt": "2026-08-19T09:46:20.178Z"
+  },
+  {
+    "_id": "6aa5849a6788da969943a23f",
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "password": "$2b$10$placeholderHashedPasswordValueForSeedData",
+    "createdAt": "2026-08-28T23:25:13.850Z"
+  },
+  {
+    "_id": "6aa5849a6788da969943a240",
+    "name": "Carlos Reyes",
+    "email": "carlos@example.com",
+    "password": "$2b$10$placeholderHashedPasswordValueForSeedData",
+    "createdAt": "2026-07-26T19:38:47.307Z"
+  },
+  {
+    "_id": "6aa5849a6788da969943a241",
+    "name": "Fiona Chen",
+    "email": "fiona@example.com",
+    "password": "$2b$10$placeholderHashedPasswordValueForSeedData",
+    "createdAt": "2026-07-22T18:03:29.705Z"
+  },
+  {
+    "_id": "6aa5849a6788da969943a242",
+    "name": "George Patel",
+    "email": "george@example.com",
+    "password": "$2b$10$placeholderHashedPasswordValueForSeedData",
+    "createdAt": "2026-07-26T02:32:21.002Z"
+  },
+  {
+    "_id": "6aa5849a6788da969943a243",
+    "name": "Hannah Kim",
+    "email": "hannah@example.com",
+    "password": "$2b$10$placeholderHashedPasswordValueForSeedData",
+    "createdAt": "2026-08-07T02:56:40.495Z"
+  },
+  {
+    "_id": "6aa5849a6788da969943a244",
+    "name": "Ivan Petrov",
+    "email": "ivan@example.com",
+    "password": "$2b$10$placeholderHashedPasswordValueForSeedData",
+    "createdAt": "2026-07-18T03:42:22.224Z"
+  },
+  {
+    "_id": "6aa5849a6788da969943a245",
+    "name": "Julia Novak",
+    "email": "julia@example.com",
+    "password": "$2b$10$placeholderHashedPasswordValueForSeedData",
+    "createdAt": "2026-07-15T01:48:52.975Z"
+  }
+]
